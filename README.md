@@ -35,3 +35,9 @@ This project explores NCAA college basketball team statistics from a recent seas
 ![Net Rating vs Wins](images/NetRating.png)
 
 
+### Pair Plot
+The pair plot shows strong relationships between team strength (BARTHAG) and both offensive (ADJOE) and defensive efficiency (ADJDE). Wins (W) also follow this pattern, stronger, more efficient teams win more games. Interestingly, tempo (ADJ_T) has little impact on team strength or success, suggesting that how efficiently a team plays matters more than how fast it plays.
+
+![Pair Plot](images/pairplot.png)
+
+
