@@ -32,6 +32,11 @@ This project explores NCAA college basketball team statistics from a recent seas
 
 ## Data Vitalization
 
+### Net Rating
+A positive net rating indicates team is scoring more than they give up to opponents. Negative indicates they are giving up more points than they are earning.
+
+The linear regression graph shows the correlation between net rating and team wins.
+
 ![Net Rating vs Wins](images/NetRating.png)
 
 
